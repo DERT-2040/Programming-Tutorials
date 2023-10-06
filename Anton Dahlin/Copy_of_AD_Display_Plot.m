@@ -1,5 +1,5 @@
 Points = out.Plot_Points;
-clf(1)
+
 hold on
 
 for i = 1:size(Points, 2)
