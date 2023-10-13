@@ -1,5 +1,6 @@
 Points = out.Plot_Points;
 
+figure(1),clf
 hold on
 
 for i = 1:size(Points, 2)
